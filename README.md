@@ -16,3 +16,5 @@ http://stats.nba.com/js/data/widgets/scores_leaders.json
 
 Lead trackers of game:
 https://data.nba.net/data/10s/prod/v1/20171030/0021700092_lead_tracker_2.json https://data.nba.net/data/10s/prod/v1/20171030/0021700092_lead_tracker_1.json
+
+For the game lead trackers: Each game has 4 different .json pages, one for each quarter - the quarter each page is for is represented by the number at the end of the url right before the '.json'. Each game's lead data also has the gameid or gid and date in the url.
